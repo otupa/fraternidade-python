@@ -1,6 +1,6 @@
 """ Exibidor de nomes """
 
-nomes = ["marinao"]
+nomes = ["marinao", "tafari"]
 
 for name in nomes:
     print(name)
